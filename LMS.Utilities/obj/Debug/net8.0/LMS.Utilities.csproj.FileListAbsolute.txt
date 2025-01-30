@@ -1,0 +1,11 @@
+C:\Users\deekshitha.karri\LMS\LMS.Utilities\bin\Debug\net8.0\LMS.Utilities.deps.json
+C:\Users\deekshitha.karri\LMS\LMS.Utilities\bin\Debug\net8.0\LMS.Utilities.dll
+C:\Users\deekshitha.karri\LMS\LMS.Utilities\bin\Debug\net8.0\LMS.Utilities.pdb
+C:\Users\deekshitha.karri\LMS\LMS.Utilities\obj\Debug\net8.0\LMS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deekshitha.karri\LMS\LMS.Utilities\obj\Debug\net8.0\LMS.Utilities.AssemblyInfoInputs.cache
+C:\Users\deekshitha.karri\LMS\LMS.Utilities\obj\Debug\net8.0\LMS.Utilities.AssemblyInfo.cs
+C:\Users\deekshitha.karri\LMS\LMS.Utilities\obj\Debug\net8.0\LMS.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\deekshitha.karri\LMS\LMS.Utilities\obj\Debug\net8.0\LMS.Utilities.dll
+C:\Users\deekshitha.karri\LMS\LMS.Utilities\obj\Debug\net8.0\refint\LMS.Utilities.dll
+C:\Users\deekshitha.karri\LMS\LMS.Utilities\obj\Debug\net8.0\LMS.Utilities.pdb
+C:\Users\deekshitha.karri\LMS\LMS.Utilities\obj\Debug\net8.0\ref\LMS.Utilities.dll

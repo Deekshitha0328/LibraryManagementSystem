@@ -1,0 +1,17 @@
+C:\Users\deekshitha.karri\LMS\LMS.DataBAse\obj\Debug\net8.0\LMS.DataBase.csproj.AssemblyReference.cache
+C:\Users\deekshitha.karri\LMS\LMS.DataBAse\obj\Debug\net8.0\LMS.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deekshitha.karri\LMS\LMS.DataBAse\obj\Debug\net8.0\LMS.DataBase.AssemblyInfoInputs.cache
+C:\Users\deekshitha.karri\LMS\LMS.DataBAse\obj\Debug\net8.0\LMS.DataBase.AssemblyInfo.cs
+C:\Users\deekshitha.karri\LMS\LMS.DataBAse\obj\Debug\net8.0\LMS.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\deekshitha.karri\LMS\LMS.DataBase\bin\Debug\net8.0\LMS.DataBase.deps.json
+C:\Users\deekshitha.karri\LMS\LMS.DataBase\bin\Debug\net8.0\LMS.DataBase.dll
+C:\Users\deekshitha.karri\LMS\LMS.DataBase\bin\Debug\net8.0\LMS.DataBase.pdb
+C:\Users\deekshitha.karri\LMS\LMS.DataBase\bin\Debug\net8.0\LMS.Utilities.dll
+C:\Users\deekshitha.karri\LMS\LMS.DataBase\bin\Debug\net8.0\LMS.Utilities.pdb
+C:\Users\deekshitha.karri\LMS\LMS.DataBase\obj\Debug\net8.0\LMS.Data.3B38AC9A.Up2Date
+C:\Users\deekshitha.karri\LMS\LMS.DataBase\obj\Debug\net8.0\LMS.DataBase.dll
+C:\Users\deekshitha.karri\LMS\LMS.DataBase\obj\Debug\net8.0\refint\LMS.DataBase.dll
+C:\Users\deekshitha.karri\LMS\LMS.DataBase\obj\Debug\net8.0\LMS.DataBase.pdb
+C:\Users\deekshitha.karri\LMS\LMS.DataBase\obj\Debug\net8.0\ref\LMS.DataBase.dll
+C:\Users\deekshitha.karri\LMS\LMS.DataBase\bin\Debug\net8.0\LMS.DataBase.runtimeconfig.json
+C:\Users\deekshitha.karri\LMS\LMS.DataBase\obj\Debug\net8.0\LMS.DataBase.genruntimeconfig.cache

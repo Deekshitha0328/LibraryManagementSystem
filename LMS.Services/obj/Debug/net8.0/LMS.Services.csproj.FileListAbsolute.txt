@@ -1,0 +1,17 @@
+C:\Users\deekshitha.karri\LMS\LMS.Services\bin\Debug\net8.0\LMS.Services.deps.json
+C:\Users\deekshitha.karri\LMS\LMS.Services\bin\Debug\net8.0\LMS.Services.dll
+C:\Users\deekshitha.karri\LMS\LMS.Services\bin\Debug\net8.0\LMS.Services.pdb
+C:\Users\deekshitha.karri\LMS\LMS.Services\bin\Debug\net8.0\LMS.DataBase.dll
+C:\Users\deekshitha.karri\LMS\LMS.Services\bin\Debug\net8.0\LMS.Utilities.dll
+C:\Users\deekshitha.karri\LMS\LMS.Services\bin\Debug\net8.0\LMS.Utilities.pdb
+C:\Users\deekshitha.karri\LMS\LMS.Services\bin\Debug\net8.0\LMS.DataBase.pdb
+C:\Users\deekshitha.karri\LMS\LMS.Services\obj\Debug\net8.0\LMS.Services.csproj.AssemblyReference.cache
+C:\Users\deekshitha.karri\LMS\LMS.Services\obj\Debug\net8.0\LMS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deekshitha.karri\LMS\LMS.Services\obj\Debug\net8.0\LMS.Services.AssemblyInfoInputs.cache
+C:\Users\deekshitha.karri\LMS\LMS.Services\obj\Debug\net8.0\LMS.Services.AssemblyInfo.cs
+C:\Users\deekshitha.karri\LMS\LMS.Services\obj\Debug\net8.0\LMS.Services.csproj.CoreCompileInputs.cache
+C:\Users\deekshitha.karri\LMS\LMS.Services\obj\Debug\net8.0\LMS.Serv.0D067825.Up2Date
+C:\Users\deekshitha.karri\LMS\LMS.Services\obj\Debug\net8.0\LMS.Services.dll
+C:\Users\deekshitha.karri\LMS\LMS.Services\obj\Debug\net8.0\refint\LMS.Services.dll
+C:\Users\deekshitha.karri\LMS\LMS.Services\obj\Debug\net8.0\LMS.Services.pdb
+C:\Users\deekshitha.karri\LMS\LMS.Services\obj\Debug\net8.0\ref\LMS.Services.dll
